@@ -62,11 +62,8 @@ This project follows a real-world development flow:
 ### Mobile Responsive
 ![Todo List](./screenshorts/mobileResponsive.jpg)
 
-### Completed Task Example
-![Completed Task](./screenshots/completed-task.png)
+![Todos List](./screenshorts/mobileResponsive.jpg)
 
-### Responsive / Mobile View
-![Mobile View](./screenshots/mobile-view.png)
 
 ---
 
