@@ -5,7 +5,7 @@ This project helps users manage their daily tasks in a simple and efficient way 
 
 ## 🌐 Live Demo
 
-[View Live Project](https://todo-app-tawny-kappa-95.vercel.app/)
+[View Live Project]([https://todo-app-tawny-kappa-95.vercel.app/](https://todo-app-tawny-kappa-95.vercel.app/))
 
 ---
 
