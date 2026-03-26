@@ -56,11 +56,11 @@ This project follows a real-world development flow:
 ### Home Page
 ![Home Page](./screenshorts/home.png)
 
-### Add Todo Section
+### Checkbox Completed
 ![Not Showing Completed](./screenshorts/withoutShow.png)
 
-### Todo List View
-![Todo List](./screenshots/todo-list.png)
+### Mobile Responsive
+![Todo List](./screenshorts/mobileResponsive.jpg)
 
 ### Completed Task Example
 ![Completed Task](./screenshots/completed-task.png)
