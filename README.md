@@ -62,7 +62,7 @@ This project follows a real-world development flow:
 ### Mobile Responsive
 ![Todo List](./screenshorts/mobileResponsive.jpg)
 
-![Todos List](./screenshorts/mobileResponsive.jpg)
+![Todos List](./screenshorts/MobileResponsive2.jpg)
 
 
 ---
