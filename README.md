@@ -53,13 +53,11 @@ This project follows a real-world development flow:
 
 ## 📷 Project Screenshots
 
-> Create a folder named `screenshots` in your project and place your images there.
-
 ### Home Page
 ![Home Page](./screenshorts/home.png)
 
 ### Add Todo Section
-![Add Todo](./screenshots/add-todo.png)
+![Not Showing Completed](./screenshorts/withoutshow.png)
 
 ### Todo List View
 ![Todo List](./screenshots/todo-list.png)
