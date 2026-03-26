@@ -57,7 +57,7 @@ This project follows a real-world development flow:
 ![Home Page](./screenshorts/home.png)
 
 ### Add Todo Section
-![Not Showing Completed](./screenshorts/withoutshow.png)
+![Not Showing Completed](./screenshorts/withoutShow.png)
 
 ### Todo List View
 ![Todo List](./screenshots/todo-list.png)
