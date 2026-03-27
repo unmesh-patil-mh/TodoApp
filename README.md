@@ -116,3 +116,11 @@ TodoApp/
 ```
 git clone https://github.com/unmesh-patil-mh/TodoApp.git
 ```
+### 2. Move into the project folder
+```
+cd TodoApp
+```
+### 3. Install dependencies
+```
+npm install
+```
