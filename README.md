@@ -150,3 +150,9 @@ This project helped in understanding and applying:
 - Responsive design principles
 - Deployment process using Vercel
 
+---
+
+## 📬 Contact
+
+If you would like to connect or give feedback, feel free to reach out through GitHub or LinkedIn.
+
