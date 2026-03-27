@@ -135,3 +135,18 @@ npm run dev
 http://localhost:5173
 ```
 
+---
+
+## 🧠 Concepts Used
+This project helped in understanding and applying:
+- React useState
+- React useEffect
+- Controlled input fields
+- Conditional rendering
+- Array methods like map() and filter()
+- Local Storage integration
+- Component-based architecture
+- Tailwind CSS utility classes
+- Responsive design principles
+- Deployment process using Vercel
+
