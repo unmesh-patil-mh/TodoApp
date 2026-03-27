@@ -124,3 +124,12 @@ cd TodoApp
 ```
 npm install
 ```
+### 4. Start the development server
+```
+npm run dev
+```
+### 5. Open in browser
+```
+http://localhost:5173
+```
+
